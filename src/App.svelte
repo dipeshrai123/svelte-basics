@@ -1,3 +1,5 @@
-<div>
-  HELLO
-</div>
+<script>
+  import Counter from './Counter.svelte'
+</script>
+
+<Counter />
